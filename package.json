@@ -9,6 +9,7 @@
     "atom-workspace": "atom-hitmarker:toggle"
   },
   "repository": "https://github.com/atom/atom-hitmarker",
+  "author": "Alexandre Gagnon <alxgnon@gmail.com> (http://alxgnon.com)",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
