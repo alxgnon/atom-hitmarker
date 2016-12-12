@@ -1,5 +1,5 @@
 {
   "atom-workspace": {
-    "ctrl-alt-o": "atom-hitmarker:toggle"
+    "ctrl-alt-h": "atom-hitmarker:toggle"
   }
 }
