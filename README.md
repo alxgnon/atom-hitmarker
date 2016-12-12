@@ -1,4 +1,4 @@
-# atom-hitmarker
+# Hitmarker
 
 Adds MLG hitmarkers to Atom.
 

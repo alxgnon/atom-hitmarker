@@ -1,10 +1,10 @@
 {
-  "name": "atom-hitmarker",
+  "name": "hitmarker",
   "main": "./lib/hitmarker",
   "version": "0.0.0",
   "description": "Adds MLG hitmarkers to Atom.",
   "keywords": [],
-  "repository": "https://github.com/atom/atom-hitmarker",
+  "repository": "https://github.com/alxgnon/hitmarker",
   "author": "Alexandre Gagnon <alxgnon@gmail.com> (http://alxgnon.com)",
   "license": "MIT",
   "engines": {
