@@ -5,9 +5,6 @@
   "description": "A short description of your package",
   "keywords": [
   ],
-  "activationCommands": {
-    "atom-workspace": "atom-hitmarker:toggle"
-  },
   "repository": "https://github.com/atom/atom-hitmarker",
   "author": "Alexandre Gagnon <alxgnon@gmail.com> (http://alxgnon.com)",
   "license": "MIT",
