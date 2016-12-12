@@ -1,4 +1,4 @@
-## 1.1.0 2016-12-12
+## 1.2.0 2016-12-12
 * Fixed hitmarkers not appearing in Tree View.
 
 ## 1.1.0 2016-12-12
