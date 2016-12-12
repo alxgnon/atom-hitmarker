@@ -2,7 +2,7 @@
   "context-menu": {
     "atom-text-editor": [
       {
-        "label": "Toggle atom-hitmarker",
+        "label": "Toggle Hitmarker",
         "command": "atom-hitmarker:toggle"
       }
     ]
@@ -12,7 +12,7 @@
       "label": "Packages",
       "submenu": [
         {
-          "label": "atom-hitmarker",
+          "label": "Hitmarker",
           "submenu": [
             {
               "label": "Toggle",
