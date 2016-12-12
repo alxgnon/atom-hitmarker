@@ -1,6 +1,6 @@
 .hitmarker {
   position: fixed;
-  zIndex: 2147483647;
+  z-index: 2147483647;
   display: none;
-  pointerEvents: none;
+  pointer-events: none;
 }
