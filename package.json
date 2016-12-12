@@ -1,7 +1,7 @@
 {
   "name": "hitmarker",
   "main": "./lib/hitmarker",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Adds MLG hitmarkers to Atom.",
   "keywords": [],
   "repository": "https://github.com/alxgnon/atom-hitmarker",
